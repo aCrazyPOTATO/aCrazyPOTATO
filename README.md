@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acrazypotato&label=Profile%20views&color=0e75b6&style=flat" alt="acrazypotato" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsanjeev44" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjeev44?logo=twitter&style=for-the-badge" alt="iamsanjeev44" /></a> </p>
-
 - 🌱 I’m currently learning **Everything**
 
 - 🤝 I’m looking for **The Proper Guidance**
