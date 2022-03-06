@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am POTATO 🥔**
 
-- 👨‍💻 I make alot of mistake **Help me correct It**
+- 👨‍💻 I make a lot of mistake **Help me correct It**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
