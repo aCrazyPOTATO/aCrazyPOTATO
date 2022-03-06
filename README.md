@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 🤝 I’m looking for help with **The Right Path**
+- 🤝 I’m looking for **The Proper Guidance**
 
-- 👨‍💻 All of my projects are available at [asanjeev.com.np](asanjeev.com.np)
+- 👨‍💻 I am a Learner  [asanjeev.com.np](asanjeev.com.np)
 
 - 📫 How to reach me **hello@asanjeev.com.np**
 
 - ⚡ Fun fact **I am POTATO 🥔**
+
+- 👨‍💻 I make alot of mistake **Help me correct It**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
