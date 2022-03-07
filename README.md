@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hello@asanjeev.com.np**
 
-- ⚡ Fun fact **I am POTATO 🥔**
+- ⚡ Fun fact **I am  aCrazyPOTATO 🥔**
 
 - 👨‍💻 I make a lot of mistake **Help me correct It**
 
