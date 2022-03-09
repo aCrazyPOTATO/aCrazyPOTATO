@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acrazypotato&show_icons=true&locale=en&layout=compact" alt="acrazypotato" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acrazypotato&" alt="acrazypotato" /></p>
