@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sanjeev</h1>
-<h3 align="center">A passionate Learner from Nepal</h3>
+<h1 align="center">Hello 👋, I'm Sanjeev</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acrazypotato&label=Profile%20views&color=0e75b6&style=flat" alt="acrazypotato" /> </p>
+<p align="center">
 
 - 🌱 I’m currently learning **Everything**
 
@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I am  aCrazyPOTATO 🥔**
 
 - 👨‍💻 I make a lot of mistake **Help me correct It**
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
