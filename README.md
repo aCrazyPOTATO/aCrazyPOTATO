@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **The Proper Guidance**
 
-- 👨‍💻 I am a Learner  <a href="http://asanjeev.com.np/" target=_blank>(asanjeev.com.np)
+  - 👨‍💻 I am a Learner  <a href="http://asanjeev.com.np/" target=_blank>asanjeev.com.np </a>
 
 - 📫 How to reach me **hello@asanjeev.com.np**
 
