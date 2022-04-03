@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acrazypotato&label=Profile%20views&color=0e75b6&style=flat" alt="acrazypotato" /> </p>
 <p align="center">
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for **The Proper Guidance**
 
