@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sanjeev</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acrazypotato&label=Profile%20views&color=0e75b6&style=flat" alt="acrazypotato" /> </p>
 <p align="center">
