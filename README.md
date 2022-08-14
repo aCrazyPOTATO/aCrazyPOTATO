@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for **The Proper Guidance**
-
-  - 👨‍💻 I am a Learner  <a href="http://asanjeev.com.np/" target=_blank>asanjeev.com.np </a>
+- 🤝 I’m looking for **Free Courses Front End😂**
 
 - 📫 How to reach me **hello@asanjeev.com.np**
 
 - ⚡ Fun fact **I am  aCrazyPOTATO 🥔**
-
-- 👨‍💻 I make a lot of mistake **Help me correct It**
   </p>
 
 <h3 align="left">Connect with me:</h3>
