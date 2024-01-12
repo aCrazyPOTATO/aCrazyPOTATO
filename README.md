@@ -6,7 +6,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/489831100915515433.png) 
 
-- 🌱 I’m currently learning **Flutter..**
+- 🌱 I’m currently **Sleeping**
 - 📫 How to reach me **sanjeev@nepsavvy.com**
 
 <h3 align="left">Connect with me:</h3>
