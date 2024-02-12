@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/iamsanjeev44" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjeev44?logo=twitter&style=for-the-badge" alt="iamsanjeev44" /></a> </p>
 
 
-![Discord](https://discord.c99.nl/widget/theme-3/489831100915515433.png) 
+
 
 - 🌱 I’m currently **Sleeping**
 - 📫 How to reach me **sanjeev@nepsavvy.com**
